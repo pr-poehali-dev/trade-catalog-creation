@@ -8,11 +8,11 @@ const Header = () => {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center space-x-2">
             <div className="w-10 h-10 bg-primary rounded-lg flex items-center justify-center">
-              <Icon name="Package" size={24} className="text-white" />
+              <Icon name="Milk" size={24} className="text-white" />
             </div>
             <div>
-              <h1 className="text-xl font-bold text-gray-900">ТоргПром</h1>
-              <p className="text-xs text-gray-500">Торговая компания</p>
+              <h1 className="text-xl font-bold text-gray-900">МолокоПром</h1>
+              <p className="text-xs text-gray-500">Молочная компания</p>
             </div>
           </div>
 
